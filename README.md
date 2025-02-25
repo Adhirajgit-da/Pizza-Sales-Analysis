@@ -26,4 +26,4 @@ I have created this project using Mysql and Power bi .This Power BI report provi
 6. Built interactive dashboard using Slicers, Filters for better data analysis.
 
 ## Dashboard
-https://github.com/Adhirajgit-da/Pizza-Sales-Analysis/blob/main/Screenshot%202025-02-25%20222014.png
+![image](https://github.com/user-attachments/assets/dc284018-ca06-4163-8244-788045e107c3)
