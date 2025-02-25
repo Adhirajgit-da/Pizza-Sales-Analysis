@@ -27,3 +27,4 @@ I have created this project using Mysql and Power bi .This Power BI report provi
 
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/dc284018-ca06-4163-8244-788045e107c3)
+![Screenshot 2025-02-25 222032](https://github.com/user-attachments/assets/eb9d59d9-ec89-4651-b056-e138b06f015a)
