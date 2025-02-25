@@ -25,5 +25,3 @@ I have created this project using Mysql and Power bi .This Power BI report provi
 5. Built KPI's.
 6. Built interactive dashboard using Slicers, Filters for better data analysis.
 
-## Dashboard
-https://1drv.ms/i/c/6349553f3a6a5472/EQYHOs49aPtJi0zH8oslg9UBeo8QQcEASrYDnGif7ECf8A?e=qanDPJ
