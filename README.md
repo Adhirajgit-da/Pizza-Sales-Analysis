@@ -25,3 +25,5 @@ I have created this project using Mysql and Power bi .This Power BI report provi
 5. Built KPI's.
 6. Built interactive dashboard using Slicers, Filters for better data analysis.
 
+## Dashboard
+https://github.com/Adhirajgit-da/Pizza-Sales-Analysis/blob/main/Screenshot%202025-02-25%20222014.png
