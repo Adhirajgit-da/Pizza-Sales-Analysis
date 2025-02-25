@@ -16,3 +16,14 @@ I have created this project using Mysql and Power bi .This Power BI report provi
 10. Total Pizza Sold by Pizza Category?
 11. Top 5 Best Sellers by Revenue,Quantity,Total Orders?
 12. Top 5 Worst Sellers by Revenue,Quantity,Total Orders?
+
+## Process for The Analysis
+1. Used MySQL as the primary database to store pizza sales data.
+2. Had to do some basic level of data cleaning to remove duplicates in MySQL.
+3. Used SQL functions like GROUP BY, and Aggregations to structure the dataset.
+4. Exported the processed data from MySQL to Power BI for visualization.
+5. Built KPI's.
+6. Built interactive dashboard using Slicers, Filters for better data analysis.
+
+## Dashboard
+https://1drv.ms/i/c/6349553f3a6a5472/EQYHOs49aPtJi0zH8oslg9UBeo8QQcEASrYDnGif7ECf8A?e=qanDPJ
