@@ -26,5 +26,6 @@ I have created this project using Mysql and Power bi .This Power BI report provi
 6. Built interactive dashboard using Slicers, Filters for better data analysis.
 
 ## Dashboard
-![image](https://github.com/user-attachments/assets/dc284018-ca06-4163-8244-788045e107c3)
-![Screenshot 2025-02-25 222032](https://github.com/user-attachments/assets/eb9d59d9-ec89-4651-b056-e138b06f015a)
+![Screenshot 2025-02-25 230023](https://github.com/user-attachments/assets/d08fbf26-79c9-480f-8124-6ec5e7126a7a)
+![Screenshot 2025-02-25 230044](https://github.com/user-attachments/assets/224b7625-4431-43c4-aecd-f922968c00a5)
+
